@@ -24,5 +24,8 @@ Welcome to **shaDocTalk**, an interactive PDF query application powered by OpenA
 
 shaDocTalk simplifies the process of extracting information from PDF documents using advanced natural language processing capabilities. Whether for research, document analysis, or educational purposes, shaDocTalk provides a seamless and intuitive interface for interacting with PDF content.
 
+### OpenAI API Key Generation
+
+Visit OpenAI Playground https://platform.openai.com/playground
 ---
 
