@@ -24,7 +24,6 @@ Welcome to **shaDocTalk**, an interactive PDF query application powered by OpenA
 
 shaDocTalk simplifies the process of extracting information from PDF documents using advanced natural language processing capabilities. Whether for research, document analysis, or educational purposes, shaDocTalk provides a seamless and intuitive interface for interacting with PDF content.
 
----
 
 ## Generating OpenAI API Key using OpenAI Playground
 
@@ -60,8 +59,6 @@ Follow these steps to generate an API key from OpenAI Playground:
    - Ensure that the `.env` file is included in your project's `.gitignore` file to keep your API key confidential and secure.
 
 By following these steps, you can successfully generate an API key from the OpenAI Playground and integrate it into your project for accessing OpenAI's services, such as using GPT-3 for natural language processing tasks. Remember to handle API keys securely and avoid sharing them publicly to maintain the security of your applications.
-
----
 
 ---
 
